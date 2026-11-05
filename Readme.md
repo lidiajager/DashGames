@@ -35,4 +35,5 @@ O objetivo principal deste projeto foi criar um relatório interativo e visualme
 ## 👩‍💻 Autoria
 Desenvolvido por **Lidia Jäger**. 
 * Siga-me no GitHub: [@lidiajager](https://github.com/lidiajager)
-* Instagram Profissional: [@lidiajagerz](https://www.instagram.com/lidiajagerz)
+* Linkedin Profissional: www.linkedin.com/in/lidiajager
+
