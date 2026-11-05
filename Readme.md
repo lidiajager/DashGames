@@ -1,3 +1,4 @@
+
 # 🏎️ Dashboard Gamificado - Race Track (Power BI)
 
 Este repositório contém o código, a modelagem de dados e a apresentação de um projeto de **Business Intelligence** desenvolvido em Power BI, focado em visualização dinâmica e gamificação.
@@ -7,7 +8,7 @@ Este repositório contém o código, a modelagem de dados e a apresentação de 
 ## 📽️ Demonstração do Projeto
 Veja o vídeo de demonstração do dashboard em funcionamento:
 
-> 🎬 *[Insira aqui o link do seu vídeo no YouTube, ou clique no vídeo de demonstração do projeto carregado neste repositório]*
+[![Assista à demonstração do projeto no YouTube](https://img.youtube.com/vi/UDH_4dYdLe8/0.jpg)](https://www.youtube.com/watch?v=UDH_4dYdLe8)
 
 ---
 
